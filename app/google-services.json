@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295789592431",
+    "project_id": "practicalogin-ba147",
+    "storage_bucket": "practicalogin-ba147.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295789592431:android:d07e5f425c1d03d2ddb29a",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.loginautenticacioncastrog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5wNC8stBGL9lnfzXac06QbPJuQoQQK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
