@@ -11,7 +11,7 @@
         android:id="@+id/tvUser"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:text="Bienvenido, Usuario"
         android:textSize="20sp"
         android:textStyle="bold"
